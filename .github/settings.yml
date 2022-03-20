@@ -6,7 +6,7 @@ repository:
   # The name of the repository. Changing this will rename the repository. Be careful with this in the username/.github/.github/settings.yml file
   name: .github
 
-  # A short description of the repository that will show up on GitHub
+  # A short description of the repository that will show up on GitHub 
   description: description of repo
 
 # Labels: define labels for Issues and Pull Requests

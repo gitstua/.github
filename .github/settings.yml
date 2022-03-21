@@ -10,19 +10,19 @@
   #description: description of repo
 
 # Labels: define labels for Issues and Pull Requests
-labels:
-  - name: bug
-    color: CC0000
-    description: An issue with the system 🐛.
+#labels:
+#  - name: bug
+#    color: CC0000
+#    description: An issue with the system.
 
-  - name: feature
-    # If including a `#`, make sure to wrap it with quotes!
-    color: '#336699'
-    description: New functionality.
+#  - name: feature
+#    # If including a `#`, make sure to wrap it with quotes!
+#    color: '#336699'
+#    description: New functionality.
 
-  - name: Help Wanted
-    # Provide a new name to rename an existing label
-    new_name: first-timers-only
+#  - name: Help Wanted
+#    # Provide a new name to rename an existing label
+#    new_name: first-timers-only
 
 branches:
   - name: main

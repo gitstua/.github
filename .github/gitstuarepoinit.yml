@@ -7,7 +7,7 @@
 #
 
 branches:
-  - name: main
+  - name: null
     protection:
       enforce_admins: null
       required_pull_request_reviews:
